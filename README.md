@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/laravel-1-logo-png-transparent.png" width="300" height="300"></p>
+<p align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/laravel-1-logo-png-transparent.png" width="300"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
